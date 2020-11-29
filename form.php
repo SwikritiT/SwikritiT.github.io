@@ -1,7 +1,4 @@
 <?php
-
-echo "Hello world!<br>";
-
 $errors = [];
 $errorMessage = '';
 
